@@ -5,9 +5,10 @@ Using Arduino, make an LED or an LED matrix blink
    2. Matrix project
 # components utilized:
    Components employed: 
-     1. Arduino Uno R3: 
+   
+  1. Arduino Uno R3: 
     
-     The Arduino Uno R3 is an ATmega328P-based microcontroller board. It acts as the primary control unit and offers pins for digital and analog input/output connections and electrical component control.
+    The Arduino Uno R3 is an ATmega328P-based microcontroller board. It acts as the primary control unit and offers pins for digital and analog input/output connections and electrical component control.
      
   2. Resistor:
 
@@ -30,7 +31,18 @@ Using Arduino, make an LED or an LED matrix blink
     The breadboard provides a platform for easily prototyping and connecting electronic components. It allows for quick experimentation and temporary connections without the need for soldering.
 
      
-# Arduino One LED Blink:
+# Project 1 (One LED Blink):
 
-[LEDs_Matrix_Simulation](https://www.tinkercad.com/things/gbCONzobMt5)
-[One_LED_Simulation](https://www.tinkercad.com/things/9RqAp2i8Kv1)
+## Making the LED blink requires the actions listed below:
+
+## Project Simulation:
+
+    [One_LED_Simulation](https://www.tinkercad.com/things/9RqAp2i8Kv1)
+
+# Projectt 2 (Matrix Blink):
+
+## Making the Matrix blink requires the actions listed below:
+
+## Project Simulation:
+
+    [LEDs_Matrix_Simulation](https://www.tinkercad.com/things/gbCONzobMt5)
