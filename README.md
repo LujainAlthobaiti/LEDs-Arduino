@@ -32,7 +32,12 @@ Using Arduino, make an LED or an LED matrix blink
 
 ## Circuit diagram:
 
- ![photo]()
+ ![photo](OneLed.png)
+
+## Schematic View:
+
+ ![photo](One_led.pdf)
+
 ## Project Simulation:
 
    [One_LED_Simulation](https://www.tinkercad.com/things/9RqAp2i8Kv1)
@@ -41,6 +46,9 @@ Using Arduino, make an LED or an LED matrix blink
 
 ## Making the Matrix blink requires the actions listed below:
 
+## Circuit diagram:
+
+ ![photo](Leds_Matrix.png)
 ## Project Simulation:
 
    [LEDs_Matrix_Simulation](https://www.tinkercad.com/things/gbCONzobMt5)
