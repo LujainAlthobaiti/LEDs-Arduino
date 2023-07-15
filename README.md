@@ -36,7 +36,7 @@ Using Arduino, make an LED or an LED matrix blink
 
 ## Schematic View:
 
- ![photo](One_led.pdf)
+ ![One_led.pdf](https://github.com/LujainAlthobaiti/LEDs-Arduino/blob/main/LEDs%20matrix.pdf)
 
 ## Project Simulation:
 
