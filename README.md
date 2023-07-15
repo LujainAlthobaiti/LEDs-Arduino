@@ -19,7 +19,8 @@ Using Arduino, make an LED or an LED matrix blink
     A little electrical component called an LED (Light-Emitting Diode) emits light when electricity passes through it. The LED is used in Project 1 as a visual indication or display component.
   4. Matrix:
 
-    The matrix is a grid-like arrangement of LEDs, typically organized in rows and columns. In Project 2, the matrix serves as a display device, capable of showing patterns, images, or scrolling text. **"Because the matrix is ​​not available, we will create one via small LEDs"**
+    The matrix is a grid-like arrangement of LEDs, typically organized in rows and columns. In Project 2, the matrix serves as a display device, capable of showing patterns, images, or scrolling text. 
+   **"Because the matrix is ​​not available, we will create one via small LEDs"**
 
    Materials used:
    1. wires:
@@ -37,7 +38,7 @@ Using Arduino, make an LED or an LED matrix blink
 
 ## Project Simulation:
 
-    [One_LED_Simulation](https://www.tinkercad.com/things/9RqAp2i8Kv1)
+   [One_LED_Simulation](https://www.tinkercad.com/things/9RqAp2i8Kv1)
 
 # Projectt 2 (Matrix Blink):
 
@@ -45,4 +46,4 @@ Using Arduino, make an LED or an LED matrix blink
 
 ## Project Simulation:
 
-    [LEDs_Matrix_Simulation](https://www.tinkercad.com/things/gbCONzobMt5)
+   [LEDs_Matrix_Simulation](https://www.tinkercad.com/things/gbCONzobMt5)
