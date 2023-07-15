@@ -39,7 +39,7 @@ Using Arduino, make an LED or an LED matrix blink
  ![view](OneLedSchematicView.png)
 
 ## Component List:
- ![view](bom(1).csv)
+ [view](bom(1).csv)
  
 ## Project Simulation:
 
@@ -52,14 +52,14 @@ Using Arduino, make an LED or an LED matrix blink
 ## Circuit diagram:
 
  ![photo](Leds_Matrix.png)
-
-## Component List:
- ![view](bom.csv)
  
 ## Schematic View:
 
  ![view](MatrixLedSchematicView.png)
 
+## Component List:
+ [view](bom.csv)
+ 
 ## Project Simulation:
 
    [LEDs_Matrix_Simulation](https://www.tinkercad.com/things/gbCONzobMt5)
