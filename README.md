@@ -33,6 +33,7 @@ Using Arduino, make an LED or an LED matrix blink
 ## Making the LED blink requires the actions listed below:
  1. Implement the circle as in the photo below.
  2. implement the following code:
+    " You will find a simple definition with the code "
     [code](one_led1.ino)
     
 ## Circuit diagram:
@@ -55,6 +56,7 @@ Using Arduino, make an LED or an LED matrix blink
 ## Making the Matrix blink requires the actions listed below:
  1. Implement the circle as in the photo below.
  2. implement the following code:
+    " You will find a simple definition with the code "
     [code](leds_matrix1.ino)
     
 ## Circuit diagram:
@@ -77,6 +79,7 @@ Using Arduino, make an LED or an LED matrix blink
 ## Making the Matrix blink requires the actions listed below:
  1. Implement the circle as in the photo below.
  2. implement the following code:
+    " You will find a simple definition with the code "
     [code](Matrix2.ino)
     
 ## Circuit diagram:
