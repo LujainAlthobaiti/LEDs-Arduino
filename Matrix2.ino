@@ -1,5 +1,6 @@
 // C++ code
 
+//Define ports
 //row1
 int led1 = 7;
 int led2 = 6;
@@ -49,6 +50,7 @@ void setup()
 
 void loop()
 {
+  //Turn on LEDs
   digitalWrite(led1, HIGH);
   digitalWrite(led2, HIGH);
   digitalWrite(led3, HIGH);
@@ -56,6 +58,7 @@ void loop()
   
   delay(1000); // Wait for 1000 millisecond(s)
   
+  //Turn off LEDs
   digitalWrite(led1, LOW);
   digitalWrite(led2, LOW);
   digitalWrite(led3, LOW);
@@ -63,13 +66,15 @@ void loop()
   
   delay(1000); // Wait for 1000 millisecond(s)
   
+  //Turn on LEDs
   digitalWrite(led5, HIGH);
   digitalWrite(led6, HIGH);
   digitalWrite(led7, HIGH);
   digitalWrite(led8, HIGH);
   
   delay(1000); // Wait for 1000 millisecond(s)
-  
+
+  //Turn off LEDs
   digitalWrite(led5, LOW);
   digitalWrite(led6, LOW);
   digitalWrite(led7, LOW);
@@ -77,13 +82,15 @@ void loop()
   
   delay(1000); // Wait for 1000 millisecond(s)
   
+  //Turn on LEDs
   digitalWrite(led9, HIGH);
   digitalWrite(led10, HIGH);
   digitalWrite(led11, HIGH);
   digitalWrite(led12, HIGH);
   
   delay(1000); // Wait for 1000 millisecond(s)
-  
+
+  //Turn off LEDs
   digitalWrite(led9, LOW);
   digitalWrite(led10, LOW);
   digitalWrite(led11, LOW);
@@ -91,13 +98,15 @@ void loop()
   
   delay(1000); // Wait for 1000 millisecond(s)
   
+  //Turn on LEDs
   digitalWrite(led13, HIGH);
   digitalWrite(led14, HIGH);
   digitalWrite(led15, HIGH);
   digitalWrite(led16, HIGH);
   
   delay(1000); // Wait for 1000 millisecond(s)
-  
+
+  //Turn off LEDs
   digitalWrite(led13, LOW);
   digitalWrite(led14, LOW);
   digitalWrite(led15, LOW);
