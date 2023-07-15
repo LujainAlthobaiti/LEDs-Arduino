@@ -32,7 +32,7 @@ Using Arduino, make an LED or an LED matrix blink
 
 ## Circuit diagram:
 
- ![photo](OneLed.png)
+ ![photo](oneLed.png)
 
 ## Schematic View:
 
