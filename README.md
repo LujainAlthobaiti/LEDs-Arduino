@@ -2,7 +2,9 @@
 Using Arduino, make an LED or an LED matrix blink
 # Projects involved:
    1. LED project
-   2. Matrix project
+   2. Matrix project (Together)
+   3. Matrix project (separately)
+      
 # components utilized:
    Components employed: 
    
@@ -48,7 +50,7 @@ Using Arduino, make an LED or an LED matrix blink
 
    [One_LED_Simulation](https://www.tinkercad.com/things/9RqAp2i8Kv1?sharecode=SRRs4kuQcDXSNCNJreI9U81CKv-d_VdoaQ8gEULciP4)
 
-# Projectt 2 (Matrix Blink):
+# Projectt 2 (Matrix Blink Together):
 
 ## Making the Matrix blink requires the actions listed below:
  1. Implement the circle as in the photo below.
@@ -69,3 +71,26 @@ Using Arduino, make an LED or an LED matrix blink
 ## Project Simulation:
 
    [LEDs_Matrix_Simulation](https://www.tinkercad.com/things/gbCONzobMt5?sharecode=TJ898d1SV5XW51pPebJpzKuATCj2WapI4wcFLrvNi_E)
+
+# Projectt 2 (Matrix Blink separately):
+
+## Making the Matrix blink requires the actions listed below:
+ 1. Implement the circle as in the photo below.
+ 2. implement the following code:
+    [code](leds_matrix1.ino)
+    
+## Circuit diagram:
+
+ ![photo](Leds_Matrix.png)
+ 
+## Schematic View:
+
+ ![view](MatrixLedSchematicView.png)
+
+## Component List:
+ [MatrixComponentList](bom.csv)
+ 
+## Project Simulation:
+
+   [LEDs_Matrix_Simulation](https://www.tinkercad.com/things/gbCONzobMt5?sharecode=TJ898d1SV5XW51pPebJpzKuATCj2WapI4wcFLrvNi_E)
+
