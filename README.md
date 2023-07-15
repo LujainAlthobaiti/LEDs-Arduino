@@ -85,7 +85,7 @@ Using Arduino, make an LED or an LED matrix blink
  
 ## Schematic View:
 
- ![view](MatrixLED2SchematicView.png)
+ ![view](MatrixLEDs2SchematicView.png)
 
 ## Component List:
 
