@@ -48,7 +48,9 @@ Using Arduino, make an LED or an LED matrix blink
 # Projectt 2 (Matrix Blink):
 
 ## Making the Matrix blink requires the actions listed below:
-
+ 1. Implement the circle as in the photo below.
+ 2. implement the following code:
+    ![code](leds_matrix1.ino)
 ## Circuit diagram:
 
  ![photo](Leds_Matrix.png)
